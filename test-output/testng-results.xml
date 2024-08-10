@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src='./test/reports/screenshots/Testlogin_2024-08-10_12-27-35.png' height='400' width='700'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='./test/reports/screenshots/Addproduct_2024-08-10_12-27-36.png' height='400' width='700'/><br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-10T12:27:21 IST" name="Default suite" finished-at="2024-08-10T12:27:37 IST" duration-ms="16016">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T12:27:21 IST" name="Default test" finished-at="2024-08-10T12:27:37 IST" duration-ms="16016">
+      <class name="Test_cases.Test_Add_Project">
+        <test-method is-config="true" signature="lanunchBrowser()[pri:0, instance:Test_cases.Test_Add_Project@158d2680]" started-at="2024-08-10T12:27:21 IST" name="lanunchBrowser" finished-at="2024-08-10T12:27:30 IST" duration-ms="8397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanunchBrowser -->
+        <test-method signature="Testlogin()[pri:1, instance:Test_cases.Test_Add_Project@158d2680]" started-at="2024-08-10T12:27:30 IST" name="Testlogin" finished-at="2024-08-10T12:27:35 IST" duration-ms="5383" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='./test/reports/screenshots/Testlogin_2024-08-10_12-27-35.png' height='400' width='700'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Testlogin -->
+        <test-method signature="Test_product()[pri:2, instance:Test_cases.Test_Add_Project@158d2680]" started-at="2024-08-10T12:27:35 IST" name="Test_product" finished-at="2024-08-10T12:27:37 IST" duration-ms="2013" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='./test/reports/screenshots/Addproduct_2024-08-10_12-27-36.png' height='400' width='700'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_product -->
+      </class> <!-- Test_cases.Test_Add_Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
